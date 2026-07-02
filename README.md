@@ -57,7 +57,6 @@ The dataset contains borrower and loan-related information, including:
 - Drill-through
 - Report Page Tooltip
 - Conditional Formatting
-- GitHub
 
 ---
 
