@@ -434,23 +434,22 @@ This report includes several advanced Power BI features:
 
 ## Dashboard Screenshots
 
-Place all dashboard screenshots inside the `Screenshots` folder in your GitHub repository.
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/executive_overview.png)
+![Executive Overview](https://github.com/mukul816/Credit-Risk-Loan-Portfolio-PowerBI-Report/blob/main/Credit%20Risk%20Loan%20Portfolio%20Report/Screenshots/Executive%20%20Overview.png)
 
 ### Borrower & Risk Segmentation
 
-![Risk Segmentation](Screenshots/risk_segmentation.png)
+![Risk Segmentation](https://github.com/mukul816/Credit-Risk-Loan-Portfolio-PowerBI-Report/blob/main/Credit%20Risk%20Loan%20Portfolio%20Report/Screenshots/Risk%20Segmentation.png)
 
 ### Default & Loan Portfolio Analysis
 
-![Default Analysis](Screenshots/default_analysis.png)
+![Default Analysis](https://github.com/mukul816/Credit-Risk-Loan-Portfolio-PowerBI-Report/blob/main/Credit%20Risk%20Loan%20Portfolio%20Report/Screenshots/Default%20Analysis.png)
 
 ### Credit Risk Insights & Business Recommendations
 
-![Recommendations](Screenshots/recommendations.png)
+![Recommendations](https://github.com/mukul816/Credit-Risk-Loan-Portfolio-PowerBI-Report/blob/main/Credit%20Risk%20Loan%20Portfolio%20Report/Screenshots/Recommendations.png)
 
 ---
 
